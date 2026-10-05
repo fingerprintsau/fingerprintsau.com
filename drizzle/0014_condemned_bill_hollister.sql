@@ -1,0 +1,1 @@
+ALTER TABLE `users` ADD `showInCatalog` boolean DEFAULT true NOT NULL;
